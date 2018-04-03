@@ -26,7 +26,7 @@ The difference between cel shading and a more realistic shader can be seen here.
 
 Hand-drawn effects can also be achieved, such as in the game *Ōkami*.
 
-![alt text](okami.jpg "Logo Title Text 1")
+![alt text](https://hdwallsbox.com/wallpapers/l/1920x1080/56/video-games-artistic-okami-cell-shaded-1920x1080-55193.jpg "Logo Title Text 1")
 
 
 
@@ -51,9 +51,36 @@ You should break this section into two parts: (1) what you plan to deliver, and 
 
 - In this section you should organize and plan the tasks and subtasks that your team will execute. Since presentations are ~4 weeks from the due-date of the proposal, you should include a set of tasks for every week.
 
+T-4 weeks - Solidify topic and distribute tasks.  Attend sections and office hours for guidance
+
+t-3 - code code code
+
+t-2 Finish up coding, begin creating presentation visuals and renderings.  Work out any bug fixes
+
+T-1 - Wrap up presentation, finish rendering images, finish recording necessary videos, begin writing notes/scripts for presentation
+
+t-0 - PRESENT!
+
 ## Resources
 
 - List what resources, e.g. books, papers and/or online resources that are references for your project. List the computing platform, hardware and software resources that you will use for your project. You have a wide latitude here to use what you have access to, but be aware that you will have to support and trouble-shoot on your platform yourselves. If you are starting from an existing piece of code or system, describe and provide a pointer to it here.
 <http://rbwhitaker.wikidot.com/toon-shader>
+
+
+Possible references for a broader topic.  As the topic changes and begins to solidfy, we will choose certain parts of the following resurces to use.
+
+- The Algorithms and Principles of Non-photorealistic Graphics
+<https://drive.google.com/file/d/1S8omOyieH1yNCcMTwPfCwpM3v6M3PIo9/view>
+
+- A Survey of Surface-Based Illustrative Rendering for Visualization
+<https://drive.google.com/file/d/18ZWCQ0O8IKPiCzrJ8-qJ3cligLZVN6LY/view>
+
+- None-Photorealistic Computer Graphics
+<https://drive.google.com/file/d/1ZScMnYh_l1hHiXr2ql4tkhmI8NHO5vs2/view>
+
+- Real Time Nonphotorealistic Rendering
+<https://drive.google.com/file/d/1XOZbQ91OK0Dzu_0WIZ3UW5AV2nE4MKjX/view>
+
+
 
 
