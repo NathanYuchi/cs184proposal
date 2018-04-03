@@ -49,9 +49,12 @@ You should break this section into two parts: (1) what you plan to deliver, and 
 
 (1) What you plan to deliver:
 
-A shader that creates non-realistic renderings, specifically in the cel-shading or hand drawn-style.  We wou
+A shader that creates non-realistic renderings, specifically in the cel-shading.  We would like to extend it to non-realistic
 
 (2) What you hope to deliver:
+A GUI that allows the user to control parameters regarding the shading to show different styles of non-realistic shading depending on the parameters used.
+
+Expand non-realistic rendering to the entiire pipeline of rendering instead of just shading.  E.g. creating 2d key frames, drawn in with the whole color, detail, texture, style, etc., making 3-d models and scenes with maya/blendr, and extrapolate the data from the keyframe that matches the models, to get the texture, artistic brush style, etc, and use that to interpolate in-between motion for animation.
 
 ## Schedule
 
