@@ -1,8 +1,8 @@
 # CS184 Final Project Proposal: Creating a Demo with Custom Cel Shading
 
-###### Nathan Yuchi, SID
+###### Nathan Yuchi, 26576388
 ###### Kyan Russell, 25124970
-###### name, SID
+###### Henry Sun, 3031840488
 
 ## Summary: 
 
