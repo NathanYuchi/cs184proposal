@@ -26,7 +26,7 @@ The difference between cel shading and a more realistic shader can be seen here.
 
 Hand-drawn effects can also be achieved, such as in the game *Ōkami*.
 
-![alt text](https://hdwallsbox.com/wallpapers/l/1920x1080/56/video-games-artistic-okami-cell-shaded-1920x1080-55193.jpg "Logo Title Text 1")
+![alt text](okami.jpg "Logo Title Text 1")
 
 
 
