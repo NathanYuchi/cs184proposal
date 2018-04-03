@@ -20,7 +20,15 @@ We want to experiment with the various visual effects one can achieve with cel s
 
 ![alt text](https://uproxx.files.wordpress.com/2018/01/dragon-ball-fighterz.jpg?quality=95 "Logo Title Text 1")
 
+The difference between cel shading and a more realistic shader can be seen here.
+
 ![alt text](https://i.kinja-img.com/gawker-media/image/upload/s--R-_JyTsw--/c_scale,fl_progressive,q_80,w_800/unrit4bhz2pejh2fvkzv.jpg "Logo Title Text 1")
+
+Hand-drawn effects can also be achieved, such as in the game *Ōkami*.
+
+![alt text](https://hdwallsbox.com/wallpapers/l/1920x1080/56/video-games-artistic-okami-cell-shaded-1920x1080-55193.jpg "Logo Title Text 1")
+
+
 
 
 
