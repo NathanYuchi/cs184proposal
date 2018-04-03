@@ -50,17 +50,15 @@ You should break this section into two parts: (1) what you plan to deliver, and 
 (1) What you plan to deliver:
 
 A shader that creates non-realistic renderings, specifically in the cel-shading.  Because doing only a cell shading seems pretty simple and there are many tutorials for it online.  We also plan to render non-solid materials such as clouds, smoke, or vapor in a non-realistic fashion.
-![alt text](https://scontent.fsnc1-1.fna.fbcdn.net/v/t35.0-12/30122807_1874346722576194_579112867_o.png?_nc_cat=0&oh=4a2c9ddaf9b59e48ea1da406fa980f2e&oe=5AC4F16C "Logo Title Text 1")
 
 Quality / Performance (not precise yet)
  - Runtime 
- - 
 
 With this we are going to answer questions such as:
  - What exactly are the differences between realistic shading like we've done in class and non-realistic shading?
  - How is non-realistic shading acheived?
  - What are some challenges doing non-real shading?
- -
+ - What are some things to consider that you wouldn't have to consider with realistic shading?
  
 (2) What you hope to deliver:
 A GUI that allows the user to control parameters regarding the shading to show different styles of non-realistic shading depending on the parameters used.
