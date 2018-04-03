@@ -6,7 +6,8 @@
 
 ## Summary: 
 
-We want to create a cel shader to render stylized scenes. Cel shading historically has been used to achieve a very flat, "cartoonish" look. Many successful video games use this shading method, such as *The Legend Of Zelda: The Wind Waker.*
+We want to create a cel shader to render stylized scenes. Cel shading historically has been used to achieve a very flat, "cartoonish" look. Many successful video games, such as *The Legend Of Zelda: The Wind Waker*,  use this shading method.
+
 ![alt text](https://forums.unrealengine.com/filedata/fetch?id=1076570&d=1507083411 "Logo Title Text 1")
 
 ## Problem Description
@@ -14,6 +15,15 @@ We want to create a cel shader to render stylized scenes. Cel shading historical
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/8/8a/Celshading_teapot_large.png "Logo Title Text 1")
 
 - Here you should provide the context for your idea. Describe the problem that you are trying to solve, why it is important, where it is challenging. Give us a general idea on how you are going to solve it.
+
+We want to experiment with the various visual effects one can achieve with cel shading. There are many stylistic decisions to be made, such as how realistic one wants the effect to be. For example, *DRAGON BALL FighterZ* and *The Legend of Zelda: Breath of the Wild* both feature rather realistic scenes using cel shading.
+
+![alt text](https://uproxx.files.wordpress.com/2018/01/dragon-ball-fighterz.jpg?quality=95 "Logo Title Text 1")
+
+![alt text](https://i.kinja-img.com/gawker-media/image/upload/s--R-_JyTsw--/c_scale,fl_progressive,q_80,w_800/unrit4bhz2pejh2fvkzv.jpg "Logo Title Text 1")
+
+
+
 
 ## Goals and Deliverables
 
