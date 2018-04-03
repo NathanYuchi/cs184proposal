@@ -47,11 +47,11 @@ Hand-drawn effects can also be achieved, such as in the game *Ōkami*.
 
 *You should break this section into two parts: (1) what you plan to deliver, and (2) what you hope to deliver. In (1), describe what you believe you must accomplish to have a successful project and achieve the grade you expect (i.e. your baseline plan -- planning for some unexpected problems would make sense). In (2), describe what you hope to achieve if things go well and you get ahead of schedule (your aspirational plan).*
 
-(1) *What you plan to deliver:*
+*(1) What you plan to deliver:*
 
 A shader that creates non-realistic renderings, specifically in the cel-shading.  We would like to extend it to non-realistic
 
-(2) *What you hope to deliver:*
+*(2) What you hope to deliver:*
 
 A GUI that allows the user to control parameters regarding the shading to show different styles of non-realistic shading depending on the parameters used.
 
