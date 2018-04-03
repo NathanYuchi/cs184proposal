@@ -47,6 +47,12 @@ This is the most important part of your proposal. You should carefully think thr
 
 You should break this section into two parts: (1) what you plan to deliver, and (2) what you hope to deliver. In (1), describe what you believe you must accomplish to have a successful project and achieve the grade you expect (i.e. your baseline plan -- planning for some unexpected problems would make sense). In (2), describe what you hope to achieve if things go well and you get ahead of schedule (your aspirational plan).
 
+(1) What you plan to deliver:
+
+A shader that creates non-realistic renderings, specifically in the cel-shading or hand drawn-style.  We wou
+
+(2) What you hope to deliver:
+
 ## Schedule
 
 - In this section you should organize and plan the tasks and subtasks that your team will execute. Since presentations are ~4 weeks from the due-date of the proposal, you should include a set of tasks for every week.
