@@ -26,7 +26,7 @@ The difference between cel shading and a more realistic shader can be seen here.
 
 Hand-drawn effects can also be achieved, such as in the game *Ōkami*.
 
-![alt text](https://cdn4.dualshockers.com/wp-content/uploads/2017/09/OkamiHD.jpg "Logo Title Text 1")
+![alt text](okami.jpg "Logo Title Text 1")
 
 
 
